@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-size: 16px !important;
+}
+
+.bg-grey {
+    background-color: #eff1f3;
+}
+
+.bg-more-grey {
+    background-color: #c2d4d7;
+    color: black;
+}
+
+.bg-more-grey:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.border-top-grey {
+    border-top: 2px solid #eff1f3;
+}
+
+.border-bottom-grey {
+    border-bottom: 2px solid #eff1f3;
+}
+
+.border-right-grey {
+    border-right: 2px solid #eff1f3;
+}
+
+.border-all-grey {
+    border: 2px solid #eff1f3;
+}
+
+.bg-red {
+    background-color: #f72210 !important;
+}
+
+.text-red, .text-red:hover {
+    color: #f72210;
+}
+
+.medium-text {
+    font-size: 20px;
+}
+
+.small-text {
+    font-size: 14px;
+}
+
+.big-border {
+    border-top: 15px solid #f72210;
+    border-left: 15px solid transparent;
+    margin-top: -17px;
+}
+
+.red-btn {
+    border: none;
+    background-color: white;
+    color: #f72210;
+    padding: 4px 10px 4px 12px;
+}
+
+.light-btn {
+    border: none;
+    scroll-padding-right: 0;
+    padding: 4px 15px 4px 12px;
+}
+
+.center-content {
+    display: grid;
+    justify-items: center;
+}
+
+.low-background {
+    background-color: rgba(252, 252, 252, .9);
+    bottom: 0;
+    padding: 5px 20px;
+    width: auto;
+}
