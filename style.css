@@ -46,6 +46,10 @@ body{
     font-size: 20px;
 }
 
+.low-text {
+    font-size: 17px;
+}
+
 .small-text {
     font-size: 14px;
 }
@@ -67,6 +71,11 @@ body{
     border: none;
     scroll-padding-right: 0;
     padding: 4px 15px 4px 12px;
+}
+
+.dark-button {
+    border: none;
+    color: white;
 }
 
 .center-content {
