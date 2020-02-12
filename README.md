@@ -1,6 +1,6 @@
-# Project Name
+# Using Bootstrap
 
-> Project Title.
+> Newsweek Magazine page clone.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,19 +8,15 @@ Project description.
 
 ## Built With
 
-- HTML5 and CSS3
+- HTML5, CSS3 and Bootstrap
 - VSCode, Linters, Stylelint, Validator.w3
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/using-bootstrap/b571c4c3dbf8fe0ddb54c64bd5087a4afa829346/index.html)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -59,14 +55,8 @@ To get a local copy up and running follow these simple example steps.
 👤 Manezeu Patricia Chrystelle
 
 - Github: [@githubhandle](https://github.com/patriciachrysy)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle]()
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Twitter: [@twitterhandle](https://twitter.com/ManezeuP)
+- Linkedin: [linkedin](https://www.linkedin.com/in/manezeu-patricia-chrystelle-095072118/)
 
 ## 🤝 Contributing
 
