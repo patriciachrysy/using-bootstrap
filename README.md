@@ -13,7 +13,7 @@ Project description.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/patriciachrysy/using-bootstrap/b571c4c3dbf8fe0ddb54c64bd5087a4afa829346/index.html)
+[Live Demo Link](https://patriciachrysy.github.io/using-bootstrap/)
 
 
 ## Getting Started
